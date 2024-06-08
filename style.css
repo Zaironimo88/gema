@@ -1,0 +1,33 @@
+h1
+{
+font-size: 40px;
+color: white;
+}
+h3
+{
+    font-size: 20px;
+    color: white;
+}
+
+h2
+{
+    font-size: 20px;
+    color: white;
+}
+h4
+{
+font-size: 13px;
+color: white;
+}
+
+.copy_rigth_footer
+{
+position: fixed;
+color: rgb(12, 12, 12);
+bottom: 0;
+width: 100%;
+background-color: rgb(252, 248, 248);
+text-align: center;
+line-height: 3;
+
+}
